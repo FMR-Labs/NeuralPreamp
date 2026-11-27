@@ -1,6 +1,6 @@
 # Neural Preamp
 
-**Neural Preamp – 39 Amplifier Voices. One Plugin.**
+**39 Amplifier Voices. One Plugin.**
 
 From cleans to crushing high gain, Neural Preamp brings together 39 carefully crafted guitar preamp channels inspired by iconic tube amplifiers.
 
