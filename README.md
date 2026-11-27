@@ -1,10 +1,18 @@
 # Neural Preamp
 
-Neural modeling of **39 guitar preamp channels**, from clean to high gain, as a free **Windows VST3** plugin by [FMR Labs](https://github.com/FMR-Labs). Built with **iPlug2**.
+**Neural Preamp – 39 Amplifier Voices. One Plugin.**
 
-Models are inspired by iconic tube amplifiers, capturing their distinctive tonal characteristics and dynamic response.
+From cleans to crushing high gain, Neural Preamp brings together 39 carefully crafted guitar preamp channels inspired by iconic tube amplifiers.
 
-Thanks to impulse response captures, the EQs in each model faithfully replicate the behavior of the originals.
+Powered by dedicated neural models, each channel captures the distinctive tonal character and dynamic response of its original amplifier.
+
+But great tone is more than just gain and saturation. Using impulse response captures, each model features an EQ that faithfully reproduces the behaviour of the original amplifier's equalizer.
+
+39 distinct amplifier voices. Authentic dynamics. Faithful tone shaping.
+
+**Explore. Craft. Find. Enjoy your own sound!**
+
+Distributed as a free **Windows VST3** plugin by [FMR Labs](https://github.com/FMR-Labs). Built using **iPlug2**.
 
 <p align="center">
   <img alt="Neural Preamp" title="Neural Preamp" src="docs/preview.png">
